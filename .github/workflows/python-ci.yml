@@ -60,4 +60,3 @@ jobs:
 
     - name: Success
       run: echo "Image successfully pushed to Artifact Registry"
-``
